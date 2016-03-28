@@ -152,5 +152,11 @@ NavigationPane {
         theModel.insert({"title": "Amiga", "image": "amiga_kb.jpg" })
         theModel.insert({"title": "Atari", "image": "atari.jpg" })
         theModel.insert({"title": "C64", "image": "sidchip.jpg" })
+        theModel.insert({"title": "Amiga", "image": "amiga_kb.jpg" })
+        theModel.insert({"title": "Atari", "image": "atari.jpg" })
+        theModel.insert({"title": "C64", "image": "sidchip.jpg" })
+        theModel.insert({"title": "Amiga", "image": "amiga_kb.jpg" })
+        theModel.insert({"title": "Atari", "image": "atari.jpg" })
+        theModel.insert({"title": "C64", "image": "sidchip.jpg" })
     }
 }
